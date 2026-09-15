@@ -1,0 +1,6 @@
+{
+  "name": "Sistema PDV e Retaguarda Comercial",
+  "description": "Sistema de Ponto de Venda (PDV) e Retaguarda para comércio de bairro com Clean Architecture, controle de estoque transacional e cupom não fiscal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
